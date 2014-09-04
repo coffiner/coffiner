@@ -1,13 +1,8 @@
-﻿---
+---
 layout: post
-title: Hello World
-description: 这样
-category: 呵呵
-tags: 
-- 世界
+title: "Hello World"
+description: ""
+category: 
+tags: []
 ---
 {% include JB/setup %}
-
-似乎每到月底的时候，我才恍然意识到时光的飞逝。
-
-这个八月，我总算完成了今年的一个重要目标：离职或者转岗。我选择了后者。过程并不曲折，但一度让人沮丧。从客户端开发转到后台开发是一件很需要勇气的事情，毕竟两者的差别太大，我不得不放弃两年的客户端开发经验转而成为一个新手。但我并不后悔这么做。我相信亡羊补牢之说，
