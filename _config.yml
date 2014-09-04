@@ -1,4 +1,4 @@
-# This is the default format. 
+﻿# This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
@@ -9,14 +9,14 @@ pygments: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 莲城笔记
-tagline: 生活、文艺与技术随笔
+title : 牛逼网
+tagline: 老有不返,净简而不繁琐
 author :
-  name : 七弦
-  email : lcm.hust@gmail.com
-  github : joshualeung
-  twitter : szjoshua
-  facebook : jcleung
+  name : newb.wang
+  email : se@luo.bo
+  github : coffiner
+  twitter : nicevoice
+  facebook : 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -47,7 +47,7 @@ JB :
   # GitHub Project Pages (http://username.github.com/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://username.github.com/project-name
+  #  REQUIRED! Set BASE_PATH to: http://coffiner.github.com/newb
   #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
